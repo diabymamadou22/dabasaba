@@ -1,0 +1,6 @@
+{
+  "name": "DabaSaba",
+  "description": "Application de gestion de stock et des ventes pour boutiques au Mali avec suivi des crédits et alertes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
